@@ -1,0 +1,27 @@
+body {
+    background:lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+.article_detail .article img {max-width:50px;}
+
+a, li {
+    list-style-type:none;
+    text-decoration:none;
+    color:#000;
+    }
+
+.logout-link button {
+    background:transparent;
+    border:0;
+    cursor:pointer;
+    font-size:16px;
+    padding:0;
+    }
+
+li {
+    display:inline-block;
+    border:1px solid #000;
+    padding:10px 20px;
+    border-radius:3px
+    }
